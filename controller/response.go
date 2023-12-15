@@ -1,4 +1,4 @@
-package models
+package controller
 
 type messageResponse struct {
 	Status  bool        `json:"status"`
